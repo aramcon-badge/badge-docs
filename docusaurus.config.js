@@ -10,6 +10,7 @@ module.exports = {
   organizationName: 'aramcon-badge',
   projectName: 'badge-docs',
   themeConfig: {
+    image: 'img/cover-photo.jpg',
     navbar: {
       title: 'ARAMCON Badge',
       logo: {
