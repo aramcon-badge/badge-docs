@@ -37,8 +37,20 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Badge docs',
-              to: '/',
+              label: 'Getting Started',
+              to: '/badge/getting-started',
+            },
+            {
+              label: 'Python REPL',
+              to: '/badge/repl',
+            },
+            {
+              label: 'Programming Guide',
+              to: '/programming/getting-started',
+            },
+            {
+              label: 'Add-ons',
+              to: '/addons/addons',
             },
           ],
         },
@@ -46,7 +58,7 @@ module.exports = {
           title: 'Github',
           items: [
             {
-              label: 'Python firmware',
+              label: 'Main firmware (python)',
               to: 'https://github.com/aramcon-badge/aramcon-firmware',
             },
             {
@@ -56,6 +68,10 @@ module.exports = {
             {
               label: 'Apps',
               to: 'https://github.com/aramcon-badge/badge-examples',
+            },
+            {
+              label: 'Docs repo',
+              to: 'https://github.com/aramcon-badge/badge-docs',
             },
           ],
         },
