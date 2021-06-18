@@ -13,6 +13,8 @@ The board has two EEPROM chips: the top chip (I2C address 0x51) has 64KB of memo
 
 The green diskettes also include an LED that indicates I2C bus activity (i.e. reading from or writing to the floppy).
 
+![so many floppies!](floppy-many.jpg)
+
 ## Copying files to the disk
 
 To copy files to the disk, connect your badge to your computer and open
@@ -54,7 +56,7 @@ from drivers.floppy import mountfloppy
 mountfloppy()
 ```
 
-### Copying files from the floppy to the badge
+### Copying files from a floppy to the badge
 
 You can use the copy floppy package to copy files from a floppy to your badge. Note that it will only work if the badge USB drive is not attached to the computer - eject (or unmount it) before trying to copy files into your badge.
 
