@@ -7,7 +7,7 @@ title: Getting started guide
 
 The USB-C connector only works in one orientation. The other orientation will still power the badge, but the data pins (USB Drive) won't be connected.
 
-The power pin markings (AAA and LiPo/USB) are reversed.
+The power switch markings (AAA and LiPo/USB) are reversed.
 
 ## Setting your name
 
