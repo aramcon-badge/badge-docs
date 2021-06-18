@@ -8,12 +8,15 @@ title: ARAMCON Badge Documentation
 
 Enjoy your new ARAMCON badge!
 
-- [Getting Started](badge/getting-started)
-- [Hardware Features](badge/hardware-features)
-- [Python REPL](badge/repl)
-- [Programming Guide](programming/getting-started)
+Here are some things you might want to know:
 
-## Useful Links
+- [Getting Started](badge/getting-started)
+- [Python REPL](badge/repl)
+- [Hardware Features, pinout and schematics](badge/hardware-features)
+- [Programming Guide](programming/getting-started)
+- [Floppy Add-on](addons/floppy)
+
+## Source code links
 
 - [Firmware source code (Python)](https://github.com/aramcon-badge/aramcon-firmware)
 - [Hello world sample app](https://github.com/aramcon-badge/badge-examples/tree/master/helloworld)
