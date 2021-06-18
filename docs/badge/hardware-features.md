@@ -76,3 +76,8 @@ Usually, you shouldn't care about this, as it's abstracted by the firmware code.
 | P1.10 | E-Paper            | MOSI     |
 | P1.11 | Red LED            | Cathode  |
 | P1.13 | Pushbutton         | Right    |
+
+## Schematic and KiCad EDA files
+
+- [Download badge schematic (PDF)](/files/aramcon2-badge-schematic.pdf)
+- [Badge KiCad EDA files](https://github.com/aramcon-badge/aramcon-hardware/tree/master/pcbv2)
