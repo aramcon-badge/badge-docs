@@ -81,3 +81,8 @@ Usually, you shouldn't care about this, as it's abstracted by the firmware code.
 
 - [Download badge schematic (PDF)](/files/aramcon2-badge-schematic.pdf)
 - [Badge KiCad EDA files](https://github.com/aramcon-badge/aramcon-hardware/tree/master/pcbv2)
+
+## Technical drawing
+
+![ARAMCON 2 Badge Technical Drawing](hardware-technical.svg)
+
