@@ -27,6 +27,6 @@ Each add-on also contain a 128 or 256-byte EEPROM with an [Add-on ID descriptor]
 The following add-ons where created by the badge team and distributed during the conference. Documentation is only available for the most popular add-ons:
 
 - [Floppy Disk](floppy)
-- Peacock
+- [Peacock](peacock)
 - Speaker
 - Charlieplexing LED-Matrix
