@@ -84,3 +84,7 @@ The floppy drives stores 4 bytes of metadata in the driver data buffer of the [b
 | 1      | Data EEPROM address. Usually 0x51                |
 | 2      | EEPROM memory size exponent (e.g. 16 for 64kbit) |
 | 3      | EEPROM page size exponent (e.g. 7 for 128 bytes) |
+
+## Schematic diagram
+
+![Floppy schematic](floppy-schematic.png)
