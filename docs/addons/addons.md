@@ -3,7 +3,7 @@ sidebar_position: 1
 title: Badge Shitty Add-ons
 ---
 
-# Addon Overview
+# Add-ons Overview
 
 The badge implements the [Shitty Add-on (SAO) v1.69BIS standard](https://hackaday.com/2019/03/20/introducing-the-shitty-add-on-v1-69bis-standard/), which defines a 6-pin connector with power supply pins, I2C bus and two extra general-purpose pins:
 

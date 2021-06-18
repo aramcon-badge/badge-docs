@@ -13,7 +13,7 @@ The hardware includes a 296x128 E-Paper display, 3-axis accelerometer, two RGB s
 
 The badge includes two hardware extension ports. They both include I2C connectivity:
 
-- Front port with 6 pins: VCC, GND, SCL, SDA, GPIO1, GPIO2.
+- [Front port with 6 pins](../addons/addons): VCC, GND, SCL, SDA, GPIO1, GPIO2.
 - Back port with 8 pins: VCC, GND, SCL, SDA, D1, D2, D3, D4.
 
 The GPIO1/2 and D1/2/3/4 pins are digital GPIO pins that can be used for any purpose.
