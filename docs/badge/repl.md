@@ -19,10 +19,14 @@ Connect the badge to your computer using USB-C. Make sure that you computer reco
 
 Open your terminal software and connect to the Serial port. If the terminal software asks for the baud rate, use 115200.
 
-When connected, you'll see the output from the code (e.g. any `print()` statements). 
+When connected, you'll see the output from the code (e.g. any `print()` statements).
 
 To get to the REPL, press Ctrl+C (keybord interrupt). This will stop the firmware code and drop you to the Python REPL. You may need to try it several times.
 
 If you want to quit the REPL and return to the firmware code, pressed Ctrl+D. It'll also soft-reset the badge, starting the firmware code from a clean state.
 
 ![Badge REPL](repl.png)
+
+## Pasting code
+
+To paste code in the REPL in a convinient way press Ctrl+E, paste the code, and then press Ctrl+D to execute it.
