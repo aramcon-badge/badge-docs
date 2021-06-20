@@ -8,24 +8,26 @@ Visit the docs: https://badge.a-combinator.com
 
 The docs site is built using [Docusaurus 2](https://docusaurus.io/).
 
-## Installation
+## Online Development
+
+You can open a development environment in your browser, without having to install anything on your computer. The development environment lets you quickly preview your changes, and even commit them to GitHub and create a pull request.
+
+* [Open online dev environment on StackBlitz](https://stackblitz.io/github/aramcon-badge/badge-docs)
+* [Open online dev environment on Gitpod](https://gitpod.io/#https://github.com/aramcon-badge/badge-docs) - requires GitHub login
+
+## Local Development
+
+You'll need [node.js](https://nodejs.org/) and [yarn](https://classic.yarnpkg.com/en/docs/install).
+Clone this repo to your computer, then install the dependencies:
 
 ```console
 yarn install
 ```
 
-## Local Development
+Start the local development server:
 
 ```console
 yarn start
 ```
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-## Build
-
-```console
-yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+This will also open up a browser window with the docs site. Most changes are reflected live without having to restart the server.
