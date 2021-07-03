@@ -29,7 +29,7 @@ Then, connect your badge to your computer. It should appear as a usb drive. Upda
 
 ```
 cd aramcon-firmware
-circup install -r requirement.txt
+circup install -r requirements.txt
 ```
 
 Then copy the files from the cloned repository into the badge. You can skip the `.git` directory.
